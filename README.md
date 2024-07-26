@@ -12,7 +12,7 @@ To test application run: `./gradlew test`
 1. You can use any IDE or editor you want.
 2. You can use any resources you want - internet, books, etc.
 3. You can ask questions.
-4. Basically... work as you would normally do.
+4. Basically... work as you would normally do, but thinkg out loud.
 
 **Tasks:**
 
